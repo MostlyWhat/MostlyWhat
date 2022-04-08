@@ -2,6 +2,7 @@
 - 👀 I’m interested in Space, Computer Science, Science, Rocketry, Programming, Aviation and Electronics!
 - 🌱 I’m currently learning Computer Science!
 - 📫 How to reach me "https://www.mostlywhat.cf"!
+- Working under my own company of MostlyWhat Systems!
 
 <!---
 MostlyWhat/MostlyWhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
