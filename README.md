@@ -5,7 +5,8 @@
 - Working under my own company of MostlyWhat Systems!
 
 # Current Projects
-TBD
+[![Unos Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=unos-assistant)](https://github.com/MostlyWhat/)
+[![128BB Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=128Bit-Yuzu-Installer)](https://github.com/MostlyWhat/)
 
 # Statistics
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mostlywhat)](https://github.com/MostlyWhat/)
