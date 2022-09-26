@@ -10,3 +10,4 @@ TBD
 # Statistics
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mostlywhat)](https://github.com/MostlyWhat/)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostlywhat)](https://github.com/MostlyWhat/)
+[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mostlywhat)](https://github.com/MostlyWhat/)
