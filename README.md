@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MostlyWhat!
+# 👋 Hi, I’m MostlyWhat!
 - 👀 I’m interested in Space, Computer Science, Science, Rocketry, Programming, Aviation and Electronics!
 - 🌱 I’m currently learning Computer Science!
 - 📫 How to reach me "https://www.mostlywhat.systems"!
 - Working under my own company of MostlyWhat Systems!
 
-<!---
-MostlyWhat/MostlyWhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Current Projects
+TBD
+
+# Statistics
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mostlywhat)](https://github.com/MostlyWhat/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostlywhat)](https://github.com/MostlyWhat/)
