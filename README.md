@@ -1,4 +1,4 @@
-# 👋 Greetings, Space Travelers! I'm MostlyWhat, Your Interstellar Guide!
+# 👋 Greetings, Exonauts! I'm MostlyWhat, Explorer of the Frontier!
 
 ![Space Background](https://beta.mostlywhat.com/_astro/moon.9213eac1.webp)
 
@@ -22,16 +22,21 @@ I am the proud captain of MostlyWhat Systems, a cutting-edge space technology co
 
 Take a look at some of the intergalactic projects I'm currently developing:
 
-- [![Unos Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=unos-assistant)](https://github.com/MostlyWhat/unos-assistant): Unos Assistant, an AI-powered guide for exploring distant galaxies.
-- [![128BB Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=128Bit-Yuzu-Installer)](https://github.com/MostlyWhat/128Bit-Yuzu-Installer): 128Bit Yuzu Installer, a cutting-edge spacecraft configuration tool.
+- Unos Assistant, an AI-powered guide for exploring distant galaxies: \
+  [![Unos Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=unos-assistant)](https://github.com/MostlyWhat/unos-assistant)
+- 128Bit Yuzu Installer, a cutting-edge spacecraft configuration tool: \
+  [![128BB Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlywhat&repo=128Bit-Yuzu-Installer)](https://github.com/MostlyWhat/128Bit-Yuzu-Installer)
 
 ## 📊 Stellar Statistics
 
 As an explorer of code and the cosmos, it's essential to keep track of my voyages. Here are some fascinating data points from my space missions:
 
-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mostlywhat)](https://github.com/MostlyWhat/): Contributions and activities across the GitHub galaxy.
-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostlywhat)](https://github.com/MostlyWhat/): An overview of my GitHub journey.
-- [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mostlywhat)](https://github.com/MostlyWhat/): The celestial languages I've encountered on my coding odyssey.
+- Contributions and activities across the GitHub galaxy: \
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mostlywhat)](https://github.com/MostlyWhat/)
+- An overview of my GitHub journey: \
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostlywhat)](https://github.com/MostlyWhat/)
+- The celestial languages I've encountered on my coding odyssey: \
+  [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mostlywhat)](https://github.com/MostlyWhat/)
 
 ## 🌠 Join Me on My Astral Adventures!
 
